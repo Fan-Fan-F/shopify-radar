@@ -1,0 +1,87 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Ergonomic Office Chair",
+      "handle": "ergonomic-office-chair",
+      "vendor": "ComfortMax",
+      "product_type": "Furniture",
+      "created_at": "2026-01-10T08:00:00Z",
+      "updated_at": "2026-01-15T09:30:00Z",
+      "published_at": "2026-01-10T08:30:00Z",
+      "tags": ["chair", "office", "ergonomic"],
+      "variants": [
+        {
+          "id": 2001,
+          "title": "Black / Standard",
+          "price": "199.99",
+          "compare_at_price": "249.99",
+          "sku": "CHAIR-BLK-STD",
+          "available": true,
+          "position": 1
+        },
+        {
+          "id": 2002,
+          "title": "Gray / Headrest",
+          "price": "229.99",
+          "compare_at_price": "279.99",
+          "sku": "CHAIR-GRY-HDR",
+          "available": true,
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 3001,
+          "src": "https://cdn.example.com/chair-front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1002,
+      "title": "Bamboo Standing Desk",
+      "handle": "bamboo-standing-desk",
+      "vendor": "EcoWork",
+      "product_type": "Desks",
+      "created_at": "2026-02-01T10:00:00Z",
+      "updated_at": "2026-02-05T12:00:00Z",
+      "published_at": "2026-02-01T10:30:00Z",
+      "tags": ["desk", "standing", "bamboo"],
+      "variants": [
+        {
+          "id": 2003,
+          "title": "48x30 inch",
+          "price": "399.00",
+          "compare_at_price": null,
+          "sku": "DESK-BAM-48",
+          "available": true,
+          "position": 1
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": 1003,
+      "title": "Wireless Mechanical Keyboard",
+      "handle": "wireless-mech-keyboard",
+      "vendor": "KeyCraft",
+      "product_type": "Electronics",
+      "created_at": "2026-03-01T14:00:00Z",
+      "updated_at": "2026-03-02T16:00:00Z",
+      "published_at": "2026-03-01T14:30:00Z",
+      "tags": ["keyboard", "rgb", "bluetooth"],
+      "variants": [
+        {
+          "id": 2004,
+          "title": "Brown Switch",
+          "price": "89.99",
+          "compare_at_price": "99.99",
+          "sku": "KB-BRN-RGB",
+          "available": true,
+          "position": 1
+        }
+      ],
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "products": [
+    {
+      "id": 1001,
+      "title": "Ergonomic Office Chair Pro",
+      "handle": "ergonomic-office-chair",
+      "vendor": "ComfortMax",
+      "product_type": "Furniture",
+      "created_at": "2026-01-10T08:00:00Z",
+      "updated_at": "2026-04-01T10:00:00Z",
+      "published_at": "2026-01-10T08:30:00Z",
+      "tags": ["chair", "office", "ergonomic", "sale", "clearance"],
+      "variants": [
+        {
+          "id": 2001,
+          "title": "Black / Standard",
+          "price": "169.99",
+          "compare_at_price": "249.99",
+          "sku": "CHAIR-BLK-STD",
+          "available": true,
+          "position": 1
+        },
+        {
+          "id": 2002,
+          "title": "Gray / Headrest",
+          "price": "219.99",
+          "compare_at_price": "279.99",
+          "sku": "CHAIR-GRY-HDR",
+          "available": true,
+          "position": 2
+        }
+      ],
+      "images": [
+        {
+          "id": 3001,
+          "src": "https://cdn.example.com/chair-front.jpg"
+        }
+      ]
+    },
+    {
+      "id": 1003,
+      "title": "Wireless Mechanical Keyboard",
+      "handle": "wireless-mech-keyboard",
+      "vendor": "KeyCraft",
+      "product_type": "Electronics",
+      "created_at": "2026-03-01T14:00:00Z",
+      "updated_at": "2026-04-01T11:00:00Z",
+      "published_at": "2026-03-01T14:30:00Z",
+      "tags": ["keyboard", "rgb", "bluetooth"],
+      "variants": [
+        {
+          "id": 2004,
+          "title": "Brown Switch",
+          "price": "89.99",
+          "compare_at_price": "99.99",
+          "sku": "KB-BRN-RGB",
+          "available": false,
+          "position": 1
+        }
+      ],
+      "images": []
+    },
+    {
+      "id": 1004,
+      "title": "Heavy Duty Monitor Arm",
+      "handle": "heavy-duty-monitor-arm",
+      "vendor": "DeskFit",
+      "product_type": "Accessories",
+      "created_at": "2026-04-01T09:00:00Z",
+      "updated_at": "2026-04-01T09:00:00Z",
+      "published_at": "2026-04-01T09:00:00Z",
+      "tags": ["monitor", "arm", "mount", "new"],
+      "variants": [
+        {
+          "id": 2005,
+          "title": "Single Screen / Matte Black",
+          "price": "79.99",
+          "compare_at_price": "99.99",
+          "sku": "ARM-SGL-BLK",
+          "available": true,
+          "position": 1
+        }
+      ],
+      "images": [
+        {
+          "id": 3002,
+          "src": "https://cdn.example.com/monitor-arm.jpg"
+        }
+      ]
+    }
+  ]
+}

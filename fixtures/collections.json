@@ -1,0 +1,12 @@
+{
+  "collections": [
+    {
+      "id": 9001,
+      "handle": "workspace-essentials",
+      "title": "Workspace Essentials",
+      "updated_at": "2026-04-01T08:00:00Z",
+      "body_html": "<p>Curated setup items</p>",
+      "products_count": 3
+    }
+  ]
+}
